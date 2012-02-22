@@ -6,8 +6,6 @@ Import autofit
 Import delta
 Import tween
 
-Import delirio
-
 Const DEBUG:=False
 
 Class Game Extends App
